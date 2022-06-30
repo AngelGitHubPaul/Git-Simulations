@@ -39,6 +39,9 @@
 		The <a href="/todos">TODOs</a> page illustrates SvelteKit's data loading and form handling. Try using
 		it with JavaScript disabled!
 	</p> -->
+	<p style="display: flex; justify-content:center; font-weight:bold;">
+		<a href="https://github.com/AngelGitHubPaul/Git-Simulations">Source Code</a>
+	</p>
 </div>
 
 <style>
