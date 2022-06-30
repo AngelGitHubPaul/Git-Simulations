@@ -10,7 +10,17 @@
 </main>
 
 <footer>
-	<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
+	Members
+	<ul>
+		<li>Angel Paul Agnabo</li>
+		<li>Cherilyn Radam</li>
+		<li>Don Gumayagay</li>
+		<li>Francis Chez</li>
+		<li>Krisna John Belay</li>
+		<li>Ryan Bernardo Abellar</li>
+		<li>Sine Nale</li>
+		<li>Victoria Louise</li>
+	</ul>
 </footer>
 
 <style>
@@ -31,10 +41,6 @@
 		justify-content: center;
 		align-items: center;
 		padding: 40px;
-	}
-
-	footer a {
-		font-weight: bold;
 	}
 
 	@media (min-width: 480px) {
