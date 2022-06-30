@@ -20,11 +20,11 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		Hello this is sample project
 	</h1>
 
 	<h2>
-		try editing <strong>src/routes/index.svelte</strong>
+		<strong>Git Simulation </strong>Activity
 	</h2>
 
 	<Counter />
