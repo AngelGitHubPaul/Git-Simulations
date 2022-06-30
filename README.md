@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-![image](https://user-images.githubusercontent.com/51516536/176688846-672f2504-2968-41d7-8991-93cd1a028f28.png)
+![localhost_3000_](https://user-images.githubusercontent.com/51516536/176693858-c42b0ac0-50ec-4675-aa08-8c841230829f.png)
 
 ## Requirements
 
