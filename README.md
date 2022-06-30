@@ -1,5 +1,9 @@
 ## [Live Site](https://git-simulation.web.app/)
 
+## Screenshot
+
+![image](https://user-images.githubusercontent.com/51516536/176688846-672f2504-2968-41d7-8991-93cd1a028f28.png)
+
 ## Requirements
 
 Latest Node.js Version
